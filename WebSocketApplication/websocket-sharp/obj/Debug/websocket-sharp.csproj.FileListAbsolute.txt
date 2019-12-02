@@ -1,0 +1,6 @@
+C:\_projects\GitHub\ERP10CC\Current\Deployment\Server\Assemblies\websocket-sharp.dll
+C:\_projects\GitHub\ERP10CC\Current\Deployment\Server\Assemblies\websocket-sharp.pdb
+C:\_projects\GitHub\WebSocketSample\WebSocketApplication\websocket-sharp\obj\Debug\websocket-sharp.csprojAssemblyReference.cache
+C:\_projects\GitHub\WebSocketSample\WebSocketApplication\websocket-sharp\obj\Debug\websocket-sharp.csproj.CoreCompileInputs.cache
+C:\_projects\GitHub\WebSocketSample\WebSocketApplication\websocket-sharp\obj\Debug\websocket-sharp.dll
+C:\_projects\GitHub\WebSocketSample\WebSocketApplication\websocket-sharp\obj\Debug\websocket-sharp.pdb
