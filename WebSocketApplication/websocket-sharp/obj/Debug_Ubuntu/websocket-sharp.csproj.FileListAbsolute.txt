@@ -1,5 +1,0 @@
-C:\_projects\GitHub\websocket-sharp\websocket-sharp\obj\Debug_Ubuntu\websocket-sharp.csproj.CoreCompileInputs.cache
-C:\_projects\ERP10CC\Current\Deployment\Server\Assemblies\websocket-sharp.dll
-C:\_projects\ERP10CC\Current\Deployment\Server\Assemblies\websocket-sharp.pdb
-C:\_projects\GitHub\websocket-sharp\websocket-sharp\obj\Debug_Ubuntu\websocket-sharp.dll
-C:\_projects\GitHub\websocket-sharp\websocket-sharp\obj\Debug_Ubuntu\websocket-sharp.pdb
